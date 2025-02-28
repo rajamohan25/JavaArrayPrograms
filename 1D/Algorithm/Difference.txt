@@ -1,8 +1,8 @@
 Key Differences Between Linear Search & Binary Search
 
-       Feature	             Linear Search 	                Binary Search 
+      Feature	                Linear Search 	                Binary Search 
 
-      Works on	         Any array(sorted/unsorted)	      Only sorted arrays
-      Performance	       Slower for large arrays	        Much faster
-      Approach	         Checks each element	            Divides array in half
-      Best for	         Small or unsorted data	          Large sorted datasets
+      Works on	         Any array(sorted/unsorted)	  Only sorted arrays
+      Performance	         Slower for large arrays	         Much faster
+      Approach	         Checks each element	         Divides array in half
+      Best for	         Small or unsorted data	         Large sorted datasets
